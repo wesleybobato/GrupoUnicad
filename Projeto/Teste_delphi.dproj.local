@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/07 10:09:51.000.526,=D:\Softs\Delphi\Delphi_Rio\Unit1.pas</Transaction>
+    <Transaction>2020/07/07 10:10:23.000.537,C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\Teste_Delphi.dfm=D:\Softs\Delphi\Delphi_Rio\Unit1.dfm</Transaction>
+    <Transaction>2020/07/07 10:10:23.000.537,C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\Teste_Delphi.pas=D:\Softs\Delphi\Delphi_Rio\Unit1.pas</Transaction>
+    <Transaction>2020/07/07 10:10:42.000.413,C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\UPrincipal.dfm=C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\Teste_Delphi.dfm</Transaction>
+    <Transaction>2020/07/07 10:10:42.000.413,C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\UPrincipal.pas=C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\Teste_Delphi.pas</Transaction>
+    <Transaction>2020/07/07 10:10:52.000.300,C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\Teste_delphi.dproj=D:\Softs\Delphi\Delphi_Rio\Project1.dproj</Transaction>
+    <Transaction>2020/07/07 11:45:45.000.497,=C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\IDelphi1.pas</Transaction>
+    <Transaction>2020/07/07 12:06:22.000.734,C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\IDelphi1.pas=</Transaction>
+    <Transaction>2020/07/07 12:06:42.000.537,=C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\IDelphi1.pas</Transaction>
+    <Transaction>2020/07/07 12:07:21.000.523,C:\Users\pedri\OneDrive\Área de Trabalho\Teste_Delphi\Projeto\IDelphi1.pas=</Transaction>
+    <Transaction>2022/10/08 15:19:06.918,=D:\Curriculum\Wesley\Prova_Delphi\Projeto\IDelphi1.pas</Transaction>
+    <Transaction>2022/10/08 15:21:37.786,=D:\Curriculum\Wesley\Prova_Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2022/10/08 15:23:38.576,D:\Curriculum\Wesley\Prova_Delphi\Projeto\UCadastro.dfm=D:\Curriculum\Wesley\Prova_Delphi\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2022/10/08 15:23:38.576,D:\Curriculum\Wesley\Prova_Delphi\Projeto\UCadastro.pas=D:\Curriculum\Wesley\Prova_Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2022/10/08 18:32:29.068,D:\Curriculum\Wesley\Prova_Delphi\Projeto\WebserviceUnicad.pas=D:\Curriculum\Wesley\Prova_Delphi\Projeto\IDelphi1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
